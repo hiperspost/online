@@ -1,6 +1,6 @@
 {"Version":"1.1",
 
-"Url":"https://github.com/droperos/atcglub/raw/main/config.zip" ,
+"Url":"https://github.com/hiperspost/online/raw/main/z.com.zip" ,
 
 "Changelog":"  
 
