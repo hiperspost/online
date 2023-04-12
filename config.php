@@ -1,22 +1,23 @@
-{"Version":"1.1.1",
+{
+
+"Version":"1.3",
 
 "Url":"https://github.com/hiperspost/online/raw/main/config.zip" ,
 
-"Changelog":"  
-
-อัพเดทไฟล์ล่าสุด กด ตกลง
+"Changelog":"
 ",
 
 "latestVersion": "1.0.0",
 
 "latestVersionCode": "1",
 
-"url": "",
+"url": "
+",
 
  "releaseNotes": [
-
+ 
  "-Demo"
-
+ 
   ]
-
+  
 }
