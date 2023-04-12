@@ -4,7 +4,7 @@
 
 "Url":"https://github.com/hiperspost/online/raw/main/config.zip" ,
 
-"Changelog":"
+"Changelog":"     •┈┈┈┈┈♛┈┈┈┈┈•
 ",
 
 "latestVersion": "1.0.0",
