@@ -6,7 +6,7 @@
 
 "Changelog":"
 ",
-•┈┈┈┈┈♛┈┈┈┈┈•
+
 "latestVersion": "1.0.0",
 
 "latestVersionCode": "1",
