@@ -1,6 +1,6 @@
 {
 
-"Version":"1.5",
+"Version":"1.5.1",
 
 "Url":"https://github.com/hiperspost/online/raw/main/config.zip" ,
 
